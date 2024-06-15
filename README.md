@@ -1,6 +1,4 @@
-## Hi there 👋
-
-![Alt text](https://github.com/herakleitos137/herakleitos137/blob/herakleitos137/smolbanner.PNG)
+![pondering my orb](https://github.com/herakleitos137/herakleitos137/blob/herakleitos137/smolbanner.PNG)
 
 
 
