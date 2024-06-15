@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+![Alt text](https://github.com/herakleitos137/herakleitos137/blob/herakleitos137/smolbanner.PNG)
+
+
+
+
+
 <!--
 **herakleitos137/herakleitos137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
