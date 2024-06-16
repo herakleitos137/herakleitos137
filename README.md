@@ -1,3 +1,8 @@
+<!--
+<meta name="robots" content="noindex, nofollow">
+-->
+
+
 ![pondering my orb](https://github.com/herakleitos137/herakleitos137/blob/herakleitos137/smolbanner.PNG)
 
 
