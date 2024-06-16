@@ -1,6 +1,7 @@
 ![pondering my orb](https://github.com/herakleitos137/herakleitos137/blob/herakleitos137/smolbanner.PNG)
 
 
+[wiki](https://github.com/herakleitos137/herakleitos137/wiki)
 
 
 
